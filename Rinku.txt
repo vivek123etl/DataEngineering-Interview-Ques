@@ -1,3 +1,7 @@
+Company Name: E&Y by Client  
+Interview Round: 1
+
+
 Q1  How you will be loading huge petabytes of data in Snowflake?
 Q2  On which scenario we need to go for OLAP and OLTP ? 
 Q3  Suppose from source today you receive 1000 rows tomorrow you receive 1005 rows , 5 rows is extra which is not available on previous days those 5 rows you need to insert   
