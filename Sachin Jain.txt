@@ -1,0 +1,14 @@
+Explain spark architecture
+Different type of join in spark
+Leftanti and leftsemi join
+diffrenece between rank and desnse rank
+difference between groupby and windows function
+diff bwtween union and unionall
+how to apply group by in pyspark dataframe
+how to call one databrick notebook from another notebook
+diff between varibale and Parameter in ADF
+scenario based in Copy activity - can we add derive column when we copy data using copy activity in sink
+Questoin related to Tumbling window triger like default and max value of diferent advance parameter of Tumbling window trigger
+in how many ways we can triggger ADF pipeline
+What is Integration runtime in ADF
+how to load data from REST API
